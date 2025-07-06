@@ -4,7 +4,7 @@
 复现论文：  
 **《A Universal Low-Dimensional Subspace Structure in Beamforming Design: Theory and Applications》**  
 IEEE Transactions on Wireless Communications  
-DOI: [10.1109/TWC.2024.10948389](https://ieeexplore.ieee.org/document/10948389)  
+DOI: [10.1109/TSP.2025.3557523](https://ieeexplore.ieee.org/document/10948389)  
 作者：Xiaotong Zhao, Qingjiang Shi (同济大学)  
 
 ---
